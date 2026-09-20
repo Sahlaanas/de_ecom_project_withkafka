@@ -1,0 +1,35 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: "Customer dimension. Grain: one row per customer_id."
+    columns:
+      - name: customer_id
+        tests: [unique, not_null]
+
+  - name: dim_products
+    description: "Product dimension. Grain: one row per product_id."
+    columns:
+      - name: product_id
+        tests: [unique, not_null]
+
+  - name: fact_orders
+    description: "Order line item fact table. Grain: one row per order_id + product_id."
+    columns:
+      - name: order_id
+        tests: [not_null]
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_customers')
+              field: customer_id
+      - name: product_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_products')
+              field: product_id
+      - name: total_amount
+        tests:
+          - not_null

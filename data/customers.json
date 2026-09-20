@@ -1,0 +1,1602 @@
+[
+  {
+    "customer_id": "C0001",
+    "full_name": "Victoria Wyatt",
+    "email": "jamesshawn@example.com",
+    "city": "West Michael",
+    "country": "Paraguay",
+    "signup_date": "2025-04-01"
+  },
+  {
+    "customer_id": "C0002",
+    "full_name": "Maria Lynch",
+    "email": "amandasanchez@example.com",
+    "city": "Nelsonside",
+    "country": "Cyprus",
+    "signup_date": "2026-01-31"
+  },
+  {
+    "customer_id": "C0003",
+    "full_name": "Patty Perez",
+    "email": "trujillorichard@example.org",
+    "city": "New Nancy",
+    "country": "Germany",
+    "signup_date": "2025-02-20"
+  },
+  {
+    "customer_id": "C0004",
+    "full_name": "Dr. Marvin Thomas Jr.",
+    "email": "julie69@example.com",
+    "city": "Jeffreyberg",
+    "country": "Malawi",
+    "signup_date": "2025-09-13"
+  },
+  {
+    "customer_id": "C0005",
+    "full_name": "Shannon Hernandez",
+    "email": "laurahenderson@example.org",
+    "city": "Jamesmouth",
+    "country": "Marshall Islands",
+    "signup_date": "2025-03-20"
+  },
+  {
+    "customer_id": "C0006",
+    "full_name": "Terri Frazier",
+    "email": "maldonadoamanda@example.com",
+    "city": "Danielchester",
+    "country": "Cayman Islands",
+    "signup_date": "2025-08-15"
+  },
+  {
+    "customer_id": "C0007",
+    "full_name": "Sherri Baker",
+    "email": "williamrodriguez@example.net",
+    "city": "Meaganhaven",
+    "country": "New Caledonia",
+    "signup_date": "2025-02-10"
+  },
+  {
+    "customer_id": "C0008",
+    "full_name": "Christopher Ashley",
+    "email": "georgetracy@example.org",
+    "city": "Natashaport",
+    "country": "Dominican Republic",
+    "signup_date": "2024-10-30"
+  },
+  {
+    "customer_id": "C0009",
+    "full_name": "Theresa Miller",
+    "email": "wcabrera@example.net",
+    "city": "East Donna",
+    "country": "Yemen",
+    "signup_date": "2025-10-24"
+  },
+  {
+    "customer_id": "C0010",
+    "full_name": "Shane Henderson",
+    "email": "sarahcampos@example.net",
+    "city": "Lake Larry",
+    "country": "Paraguay",
+    "signup_date": "2026-01-06"
+  },
+  {
+    "customer_id": "C0011",
+    "full_name": "Joseph Martinez",
+    "email": "calebsmith@example.net",
+    "city": "New Jeffrey",
+    "country": "Barbados",
+    "signup_date": "2026-02-17"
+  },
+  {
+    "customer_id": "C0012",
+    "full_name": "Austin Johnson",
+    "email": "chad34@example.net",
+    "city": "Lewisberg",
+    "country": "Saint Kitts and Nevis",
+    "signup_date": "2026-08-02"
+  },
+  {
+    "customer_id": "C0013",
+    "full_name": "Kaitlyn Mueller",
+    "email": "glee@example.net",
+    "city": "Gomezchester",
+    "country": "Lao People's Democratic Republic",
+    "signup_date": "2026-06-11"
+  },
+  {
+    "customer_id": "C0014",
+    "full_name": "Matthew Lucas",
+    "email": "powellmatthew@example.org",
+    "city": "East James",
+    "country": "Kiribati",
+    "signup_date": "2024-12-29"
+  },
+  {
+    "customer_id": "C0015",
+    "full_name": "Joel Baxter",
+    "email": "ramosmichelle@example.net",
+    "city": "North Deniseside",
+    "country": "Taiwan",
+    "signup_date": "2024-09-28"
+  },
+  {
+    "customer_id": "C0016",
+    "full_name": "Paul Young",
+    "email": "ntucker@example.com",
+    "city": "East Nicholasfurt",
+    "country": "Estonia",
+    "signup_date": "2026-07-27"
+  },
+  {
+    "customer_id": "C0017",
+    "full_name": "Dominique Horton",
+    "email": "smoore@example.org",
+    "city": "New Jillton",
+    "country": "San Marino",
+    "signup_date": "2025-05-05"
+  },
+  {
+    "customer_id": "C0018",
+    "full_name": "John Calhoun",
+    "email": "brianromero@example.org",
+    "city": "New Carlosbury",
+    "country": "Iraq",
+    "signup_date": "2024-12-14"
+  },
+  {
+    "customer_id": "C0019",
+    "full_name": "Danielle Wheeler",
+    "email": "barnesbrandy@example.net",
+    "city": "Sarahborough",
+    "country": "Paraguay",
+    "signup_date": "2026-02-23"
+  },
+  {
+    "customer_id": "C0020",
+    "full_name": "James Powers",
+    "email": "stephen10@example.com",
+    "city": "North Amandahaven",
+    "country": "Estonia",
+    "signup_date": "2024-12-23"
+  },
+  {
+    "customer_id": "C0021",
+    "full_name": "Benjamin Sanchez",
+    "email": "eric84@example.net",
+    "city": "Lake Lisaport",
+    "country": "Venezuela",
+    "signup_date": "2026-01-15"
+  },
+  {
+    "customer_id": "C0022",
+    "full_name": "Brandy Wilson",
+    "email": "newtoneric@example.com",
+    "city": "Lake Matthew",
+    "country": "Poland",
+    "signup_date": "2025-12-25"
+  },
+  {
+    "customer_id": "C0023",
+    "full_name": "John Whitehead",
+    "email": "davisrodney@example.com",
+    "city": "North Matthewberg",
+    "country": "Northern Mariana Islands",
+    "signup_date": "2026-09-04"
+  },
+  {
+    "customer_id": "C0024",
+    "full_name": "Jeremy Thornton",
+    "email": "rodriguezsierra@example.net",
+    "city": "New Barry",
+    "country": "Heard Island and McDonald Islands",
+    "signup_date": "2025-11-17"
+  },
+  {
+    "customer_id": "C0025",
+    "full_name": "Cameron Parker",
+    "email": "nolanjason@example.org",
+    "city": "West Kimberlychester",
+    "country": "Niger",
+    "signup_date": "2026-03-19"
+  },
+  {
+    "customer_id": "C0026",
+    "full_name": "Cynthia Martin",
+    "email": "nicolejohnson@example.net",
+    "city": "Kimberlychester",
+    "country": "Spain",
+    "signup_date": "2026-01-20"
+  },
+  {
+    "customer_id": "C0027",
+    "full_name": "Danielle Moore",
+    "email": "reyesbenjamin@example.com",
+    "city": "East Lisa",
+    "country": "Kuwait",
+    "signup_date": "2025-05-31"
+  },
+  {
+    "customer_id": "C0028",
+    "full_name": "Shelby Walker",
+    "email": "raymondramirez@example.org",
+    "city": "Michaelhaven",
+    "country": "Iran",
+    "signup_date": "2026-01-27"
+  },
+  {
+    "customer_id": "C0029",
+    "full_name": "Erin Johnson",
+    "email": "gregory40@example.org",
+    "city": "Reedmouth",
+    "country": "Jordan",
+    "signup_date": "2025-12-05"
+  },
+  {
+    "customer_id": "C0030",
+    "full_name": "Janice Ray",
+    "email": "bradley60@example.net",
+    "city": "West Ryan",
+    "country": "Yemen",
+    "signup_date": "2026-01-16"
+  },
+  {
+    "customer_id": "C0031",
+    "full_name": "Erik Charles",
+    "email": "william65@example.com",
+    "city": "Angelaborough",
+    "country": "Italy",
+    "signup_date": "2026-01-17"
+  },
+  {
+    "customer_id": "C0032",
+    "full_name": "Paul Thompson",
+    "email": "richard04@example.com",
+    "city": "South Kristi",
+    "country": "New Caledonia",
+    "signup_date": "2026-01-09"
+  },
+  {
+    "customer_id": "C0033",
+    "full_name": "Jeremy Lewis",
+    "email": "yleon@example.net",
+    "city": "Lake Christopher",
+    "country": "Malaysia",
+    "signup_date": "2026-01-16"
+  },
+  {
+    "customer_id": "C0034",
+    "full_name": "Anna Crane",
+    "email": "emilywalker@example.org",
+    "city": "North Brandon",
+    "country": "Lebanon",
+    "signup_date": "2025-12-08"
+  },
+  {
+    "customer_id": "C0035",
+    "full_name": "Joy Mercado",
+    "email": "jennifercruz@example.com",
+    "city": "East Diana",
+    "country": "Albania",
+    "signup_date": "2026-07-02"
+  },
+  {
+    "customer_id": "C0036",
+    "full_name": "Stacey Osborne",
+    "email": "gregoryrubio@example.net",
+    "city": "Williamsbury",
+    "country": "United States Virgin Islands",
+    "signup_date": "2026-05-31"
+  },
+  {
+    "customer_id": "C0037",
+    "full_name": "Robert Contreras",
+    "email": "stephanie79@example.net",
+    "city": "Rivasside",
+    "country": "Kiribati",
+    "signup_date": "2026-07-05"
+  },
+  {
+    "customer_id": "C0038",
+    "full_name": "Karen Green",
+    "email": "maryramirez@example.net",
+    "city": "Simsview",
+    "country": "Kazakhstan",
+    "signup_date": "2024-11-13"
+  },
+  {
+    "customer_id": "C0039",
+    "full_name": "Devon Flores",
+    "email": "taylorjesse@example.net",
+    "city": "Lake Jason",
+    "country": "Israel",
+    "signup_date": "2025-07-12"
+  },
+  {
+    "customer_id": "C0040",
+    "full_name": "Jennifer Clark",
+    "email": "xprice@example.net",
+    "city": "Port Nicoleshire",
+    "country": "Hong Kong",
+    "signup_date": "2025-09-01"
+  },
+  {
+    "customer_id": "C0041",
+    "full_name": "Elizabeth Price",
+    "email": "vmedina@example.net",
+    "city": "South Jeffrey",
+    "country": "Jordan",
+    "signup_date": "2025-09-08"
+  },
+  {
+    "customer_id": "C0042",
+    "full_name": "Michael Yates",
+    "email": "marycalhoun@example.net",
+    "city": "South Brittanytown",
+    "country": "Belize",
+    "signup_date": "2025-12-31"
+  },
+  {
+    "customer_id": "C0043",
+    "full_name": "Joel Williams",
+    "email": "dmurphy@example.com",
+    "city": "Kathleenfurt",
+    "country": "Fiji",
+    "signup_date": "2026-03-21"
+  },
+  {
+    "customer_id": "C0044",
+    "full_name": "Darlene Miller",
+    "email": "currybrett@example.com",
+    "city": "Lake Casey",
+    "country": "Pakistan",
+    "signup_date": "2024-10-17"
+  },
+  {
+    "customer_id": "C0045",
+    "full_name": "David Combs",
+    "email": "johnwells@example.org",
+    "city": "South Holly",
+    "country": "Seychelles",
+    "signup_date": "2025-06-14"
+  },
+  {
+    "customer_id": "C0046",
+    "full_name": "Tracey Higgins",
+    "email": "tamirodriguez@example.org",
+    "city": "Barbarafurt",
+    "country": "Indonesia",
+    "signup_date": "2026-08-07"
+  },
+  {
+    "customer_id": "C0047",
+    "full_name": "Kevin Rivas",
+    "email": "curtisbarton@example.net",
+    "city": "Port Tonyaton",
+    "country": "Guatemala",
+    "signup_date": "2025-10-12"
+  },
+  {
+    "customer_id": "C0048",
+    "full_name": "Andrea Holland",
+    "email": "atkinsonlynn@example.org",
+    "city": "Yumouth",
+    "country": "Russian Federation",
+    "signup_date": "2025-01-07"
+  },
+  {
+    "customer_id": "C0049",
+    "full_name": "Joseph Santos",
+    "email": "umarshall@example.net",
+    "city": "Marcusbury",
+    "country": "Switzerland",
+    "signup_date": "2026-08-02"
+  },
+  {
+    "customer_id": "C0050",
+    "full_name": "Jerry Christensen",
+    "email": "frogers@example.com",
+    "city": "South Jason",
+    "country": "South Georgia and the South Sandwich Islands",
+    "signup_date": "2025-03-25"
+  },
+  {
+    "customer_id": "C0051",
+    "full_name": "Kyle Beard",
+    "email": "blackjames@example.org",
+    "city": "Freemanbury",
+    "country": "Portugal",
+    "signup_date": "2025-09-01"
+  },
+  {
+    "customer_id": "C0052",
+    "full_name": "Joan Smith",
+    "email": "jeffrey34@example.net",
+    "city": "Thomashaven",
+    "country": "Guatemala",
+    "signup_date": "2025-07-26"
+  },
+  {
+    "customer_id": "C0053",
+    "full_name": "Erin Warner",
+    "email": "kristopher31@example.net",
+    "city": "West David",
+    "country": "Mauritania",
+    "signup_date": "2026-08-14"
+  },
+  {
+    "customer_id": "C0054",
+    "full_name": "Cheryl Rodgers",
+    "email": "jenny89@example.com",
+    "city": "Port Jamesbury",
+    "country": "Guyana",
+    "signup_date": "2025-01-27"
+  },
+  {
+    "customer_id": "C0055",
+    "full_name": "Joseph Hill",
+    "email": "tranheidi@example.org",
+    "city": "Garciatown",
+    "country": "Montserrat",
+    "signup_date": "2025-04-13"
+  },
+  {
+    "customer_id": "C0056",
+    "full_name": "Glen Sheppard",
+    "email": "shelley71@example.org",
+    "city": "Vasquezshire",
+    "country": "Norfolk Island",
+    "signup_date": "2026-02-01"
+  },
+  {
+    "customer_id": "C0057",
+    "full_name": "Robert Avery",
+    "email": "mcknightdavid@example.com",
+    "city": "Port Alexandra",
+    "country": "Korea",
+    "signup_date": "2026-07-14"
+  },
+  {
+    "customer_id": "C0058",
+    "full_name": "Kevin Patterson",
+    "email": "lynchjody@example.org",
+    "city": "West Donna",
+    "country": "Cayman Islands",
+    "signup_date": "2025-03-12"
+  },
+  {
+    "customer_id": "C0059",
+    "full_name": "Brooke Ortiz",
+    "email": "ocarter@example.com",
+    "city": "Jacquelinemouth",
+    "country": "Barbados",
+    "signup_date": "2026-02-02"
+  },
+  {
+    "customer_id": "C0060",
+    "full_name": "Rachel Weber",
+    "email": "ronaldstephens@example.net",
+    "city": "West Margaret",
+    "country": "Barbados",
+    "signup_date": "2024-10-31"
+  },
+  {
+    "customer_id": "C0061",
+    "full_name": "Linda Holloway",
+    "email": "scott74@example.net",
+    "city": "Benderhaven",
+    "country": "Mauritius",
+    "signup_date": "2025-09-13"
+  },
+  {
+    "customer_id": "C0062",
+    "full_name": "Andrew Reynolds",
+    "email": "cassandra01@example.org",
+    "city": "Port Emilyview",
+    "country": "Morocco",
+    "signup_date": "2024-10-17"
+  },
+  {
+    "customer_id": "C0063",
+    "full_name": "Julie Pearson",
+    "email": "howard96@example.net",
+    "city": "Costafort",
+    "country": "Guernsey",
+    "signup_date": "2025-07-13"
+  },
+  {
+    "customer_id": "C0064",
+    "full_name": "Brian Martin",
+    "email": "ssteele@example.net",
+    "city": "Cervantesside",
+    "country": "Argentina",
+    "signup_date": "2025-08-16"
+  },
+  {
+    "customer_id": "C0065",
+    "full_name": "Frank Cordova",
+    "email": "ahancock@example.net",
+    "city": "Gutierrezborough",
+    "country": "Maldives",
+    "signup_date": "2025-06-09"
+  },
+  {
+    "customer_id": "C0066",
+    "full_name": "Lori Wolf",
+    "email": "josephanderson@example.com",
+    "city": "Gilmorefort",
+    "country": "British Virgin Islands",
+    "signup_date": "2024-10-09"
+  },
+  {
+    "customer_id": "C0067",
+    "full_name": "Rebecca Mckinney",
+    "email": "andrea86@example.org",
+    "city": "Port Robin",
+    "country": "Kyrgyz Republic",
+    "signup_date": "2026-08-11"
+  },
+  {
+    "customer_id": "C0068",
+    "full_name": "Brittany Cantu",
+    "email": "william46@example.com",
+    "city": "Sanchezside",
+    "country": "Cameroon",
+    "signup_date": "2025-06-25"
+  },
+  {
+    "customer_id": "C0069",
+    "full_name": "Katie Suarez",
+    "email": "hillkristy@example.com",
+    "city": "Sarahhaven",
+    "country": "Ethiopia",
+    "signup_date": "2026-05-10"
+  },
+  {
+    "customer_id": "C0070",
+    "full_name": "Edwin Matthews",
+    "email": "cgrimes@example.net",
+    "city": "Reedside",
+    "country": "Serbia",
+    "signup_date": "2025-10-20"
+  },
+  {
+    "customer_id": "C0071",
+    "full_name": "Frank Lopez",
+    "email": "ashleyhall@example.com",
+    "city": "West Juliefurt",
+    "country": "Hungary",
+    "signup_date": "2026-09-10"
+  },
+  {
+    "customer_id": "C0072",
+    "full_name": "Marissa Hernandez",
+    "email": "martineztammy@example.com",
+    "city": "Port Meganville",
+    "country": "Malta",
+    "signup_date": "2026-07-15"
+  },
+  {
+    "customer_id": "C0073",
+    "full_name": "Charles Pitts",
+    "email": "charlesharrington@example.com",
+    "city": "Cindyfurt",
+    "country": "Pakistan",
+    "signup_date": "2024-11-15"
+  },
+  {
+    "customer_id": "C0074",
+    "full_name": "Michael Ferguson",
+    "email": "courtney78@example.org",
+    "city": "East Crystalport",
+    "country": "Denmark",
+    "signup_date": "2026-03-17"
+  },
+  {
+    "customer_id": "C0075",
+    "full_name": "Brett Schultz",
+    "email": "wallaceheather@example.org",
+    "city": "West Lauraport",
+    "country": "Guinea-Bissau",
+    "signup_date": "2025-06-19"
+  },
+  {
+    "customer_id": "C0076",
+    "full_name": "Joseph Knight",
+    "email": "georgemiller@example.com",
+    "city": "South Roberta",
+    "country": "Cambodia",
+    "signup_date": "2025-03-06"
+  },
+  {
+    "customer_id": "C0077",
+    "full_name": "Julia Estrada",
+    "email": "rsantana@example.net",
+    "city": "North Scott",
+    "country": "Guatemala",
+    "signup_date": "2026-09-09"
+  },
+  {
+    "customer_id": "C0078",
+    "full_name": "Victor Vaughn",
+    "email": "mbruce@example.com",
+    "city": "Rodriguezfurt",
+    "country": "Montserrat",
+    "signup_date": "2025-06-07"
+  },
+  {
+    "customer_id": "C0079",
+    "full_name": "Michael Johnson",
+    "email": "khill@example.net",
+    "city": "New Julieport",
+    "country": "Singapore",
+    "signup_date": "2026-04-24"
+  },
+  {
+    "customer_id": "C0080",
+    "full_name": "Heather Fields",
+    "email": "erica21@example.net",
+    "city": "West Kristinaton",
+    "country": "Mozambique",
+    "signup_date": "2025-06-11"
+  },
+  {
+    "customer_id": "C0081",
+    "full_name": "Theodore Murphy",
+    "email": "ithompson@example.net",
+    "city": "Alyssaview",
+    "country": "Switzerland",
+    "signup_date": "2025-01-16"
+  },
+  {
+    "customer_id": "C0082",
+    "full_name": "Terry Coffey",
+    "email": "julie51@example.com",
+    "city": "East Karenbury",
+    "country": "Tokelau",
+    "signup_date": "2026-01-25"
+  },
+  {
+    "customer_id": "C0083",
+    "full_name": "Jennifer Singleton",
+    "email": "christopher60@example.com",
+    "city": "South Miguelview",
+    "country": "Myanmar",
+    "signup_date": "2025-06-23"
+  },
+  {
+    "customer_id": "C0084",
+    "full_name": "Jacqueline Leonard",
+    "email": "jjohnson@example.com",
+    "city": "Lake Bryan",
+    "country": "Swaziland",
+    "signup_date": "2025-08-23"
+  },
+  {
+    "customer_id": "C0085",
+    "full_name": "Marie Wilson",
+    "email": "shahkevin@example.com",
+    "city": "North Jimmyside",
+    "country": "Burkina Faso",
+    "signup_date": "2025-06-29"
+  },
+  {
+    "customer_id": "C0086",
+    "full_name": "Travis Horton",
+    "email": "umatthews@example.org",
+    "city": "Penafort",
+    "country": "Nicaragua",
+    "signup_date": "2025-07-13"
+  },
+  {
+    "customer_id": "C0087",
+    "full_name": "Amanda Wood",
+    "email": "pwallace@example.com",
+    "city": "Lake Michaelstad",
+    "country": "Bahamas",
+    "signup_date": "2025-07-06"
+  },
+  {
+    "customer_id": "C0088",
+    "full_name": "Bryan Charles",
+    "email": "ndavis@example.net",
+    "city": "North Kristinbury",
+    "country": "Brunei Darussalam",
+    "signup_date": "2026-04-16"
+  },
+  {
+    "customer_id": "C0089",
+    "full_name": "Ronald Spencer",
+    "email": "lisahall@example.org",
+    "city": "West Micheleberg",
+    "country": "Bulgaria",
+    "signup_date": "2025-10-17"
+  },
+  {
+    "customer_id": "C0090",
+    "full_name": "Ashley Delacruz",
+    "email": "alexistyler@example.org",
+    "city": "Alfredview",
+    "country": "Austria",
+    "signup_date": "2024-12-19"
+  },
+  {
+    "customer_id": "C0091",
+    "full_name": "Brian Brown",
+    "email": "gstrickland@example.net",
+    "city": "South Williamton",
+    "country": "Saint Lucia",
+    "signup_date": "2026-04-13"
+  },
+  {
+    "customer_id": "C0092",
+    "full_name": "Kelly Ellis",
+    "email": "browntimothy@example.com",
+    "city": "Parksfort",
+    "country": "Rwanda",
+    "signup_date": "2026-07-14"
+  },
+  {
+    "customer_id": "C0093",
+    "full_name": "Bobby Franklin",
+    "email": "martinezclaudia@example.net",
+    "city": "Oscarhaven",
+    "country": "French Polynesia",
+    "signup_date": "2025-08-15"
+  },
+  {
+    "customer_id": "C0094",
+    "full_name": "Annette Miles",
+    "email": "russellbeasley@example.com",
+    "city": "Mariafurt",
+    "country": "Israel",
+    "signup_date": "2026-03-05"
+  },
+  {
+    "customer_id": "C0095",
+    "full_name": "Erik Scott",
+    "email": "gloriawells@example.org",
+    "city": "North Ryanstad",
+    "country": "Sudan",
+    "signup_date": "2024-12-22"
+  },
+  {
+    "customer_id": "C0096",
+    "full_name": "Tyler Hoffman",
+    "email": "jenkinsmorgan@example.com",
+    "city": "West Carolinestad",
+    "country": "Bosnia and Herzegovina",
+    "signup_date": "2025-11-14"
+  },
+  {
+    "customer_id": "C0097",
+    "full_name": "Matthew Walker",
+    "email": "bellangela@example.org",
+    "city": "Audreychester",
+    "country": "Tanzania",
+    "signup_date": "2025-11-02"
+  },
+  {
+    "customer_id": "C0098",
+    "full_name": "Lisa Leonard",
+    "email": "lynchdiane@example.net",
+    "city": "Anthonyview",
+    "country": "Reunion",
+    "signup_date": "2026-03-29"
+  },
+  {
+    "customer_id": "C0099",
+    "full_name": "Heather White",
+    "email": "ashleymorales@example.org",
+    "city": "North Julieborough",
+    "country": "Honduras",
+    "signup_date": "2025-07-21"
+  },
+  {
+    "customer_id": "C0100",
+    "full_name": "Jacob Griffith",
+    "email": "wareeric@example.net",
+    "city": "Lake Christophermouth",
+    "country": "Panama",
+    "signup_date": "2025-07-24"
+  },
+  {
+    "customer_id": "C0101",
+    "full_name": "Jennifer Lewis",
+    "email": "reeddaniel@example.net",
+    "city": "Roseport",
+    "country": "Aruba",
+    "signup_date": "2025-02-26"
+  },
+  {
+    "customer_id": "C0102",
+    "full_name": "Mrs. Christine Dougherty",
+    "email": "kathrynroberts@example.org",
+    "city": "South Julieburgh",
+    "country": "Bulgaria",
+    "signup_date": "2025-06-22"
+  },
+  {
+    "customer_id": "C0103",
+    "full_name": "Kathryn Whitaker",
+    "email": "charles06@example.org",
+    "city": "Morsemouth",
+    "country": "Morocco",
+    "signup_date": "2025-07-28"
+  },
+  {
+    "customer_id": "C0104",
+    "full_name": "Mark Roberts",
+    "email": "usmith@example.org",
+    "city": "Collierstad",
+    "country": "Benin",
+    "signup_date": "2025-08-03"
+  },
+  {
+    "customer_id": "C0105",
+    "full_name": "Jeffrey Morales",
+    "email": "fosterkyle@example.com",
+    "city": "West Kimberly",
+    "country": "Belarus",
+    "signup_date": "2025-09-26"
+  },
+  {
+    "customer_id": "C0106",
+    "full_name": "Jordan Bullock",
+    "email": "michael23@example.org",
+    "city": "West James",
+    "country": "Netherlands",
+    "signup_date": "2025-01-07"
+  },
+  {
+    "customer_id": "C0107",
+    "full_name": "Angela Bean",
+    "email": "kmarshall@example.net",
+    "city": "Maldonadoshire",
+    "country": "Norway",
+    "signup_date": "2025-12-26"
+  },
+  {
+    "customer_id": "C0108",
+    "full_name": "Sharon Burton",
+    "email": "scottharrison@example.net",
+    "city": "Laurashire",
+    "country": "Azerbaijan",
+    "signup_date": "2025-06-02"
+  },
+  {
+    "customer_id": "C0109",
+    "full_name": "Joel Johnson",
+    "email": "marie11@example.net",
+    "city": "Fordside",
+    "country": "Zimbabwe",
+    "signup_date": "2026-04-19"
+  },
+  {
+    "customer_id": "C0110",
+    "full_name": "Joanna Pacheco",
+    "email": "marcalvarez@example.org",
+    "city": "South Dalemouth",
+    "country": "Rwanda",
+    "signup_date": "2024-11-18"
+  },
+  {
+    "customer_id": "C0111",
+    "full_name": "Amanda Zimmerman",
+    "email": "nwarren@example.org",
+    "city": "Nathanport",
+    "country": "Iceland",
+    "signup_date": "2025-07-13"
+  },
+  {
+    "customer_id": "C0112",
+    "full_name": "Kyle Mccormick",
+    "email": "cameron18@example.net",
+    "city": "Mitchellberg",
+    "country": "Grenada",
+    "signup_date": "2024-11-16"
+  },
+  {
+    "customer_id": "C0113",
+    "full_name": "Sydney Collins",
+    "email": "tanderson@example.org",
+    "city": "Angelicamouth",
+    "country": "Suriname",
+    "signup_date": "2024-12-20"
+  },
+  {
+    "customer_id": "C0114",
+    "full_name": "Theresa Osborn",
+    "email": "lucasrodney@example.com",
+    "city": "West Kyleborough",
+    "country": "Guam",
+    "signup_date": "2026-08-11"
+  },
+  {
+    "customer_id": "C0115",
+    "full_name": "Mr. Chad Jones",
+    "email": "romeroamber@example.net",
+    "city": "Lake Matthewberg",
+    "country": "Nepal",
+    "signup_date": "2025-06-20"
+  },
+  {
+    "customer_id": "C0116",
+    "full_name": "Ronald Wise",
+    "email": "jenniferwilliams@example.com",
+    "city": "South Cheryl",
+    "country": "Sao Tome and Principe",
+    "signup_date": "2026-03-19"
+  },
+  {
+    "customer_id": "C0117",
+    "full_name": "Joseph Collins",
+    "email": "mmckee@example.com",
+    "city": "Murrayport",
+    "country": "Slovakia (Slovak Republic)",
+    "signup_date": "2025-06-24"
+  },
+  {
+    "customer_id": "C0118",
+    "full_name": "Tracy Montoya",
+    "email": "moniquewilliams@example.com",
+    "city": "Angelaville",
+    "country": "Rwanda",
+    "signup_date": "2026-05-29"
+  },
+  {
+    "customer_id": "C0119",
+    "full_name": "Dominique Hines",
+    "email": "shannon82@example.com",
+    "city": "East Lisastad",
+    "country": "Venezuela",
+    "signup_date": "2024-10-07"
+  },
+  {
+    "customer_id": "C0120",
+    "full_name": "Jonathan Young",
+    "email": "brooksanthony@example.org",
+    "city": "Laceyberg",
+    "country": "Argentina",
+    "signup_date": "2025-04-15"
+  },
+  {
+    "customer_id": "C0121",
+    "full_name": "Melissa Taylor",
+    "email": "awest@example.org",
+    "city": "West Jasonberg",
+    "country": "Mexico",
+    "signup_date": "2026-08-06"
+  },
+  {
+    "customer_id": "C0122",
+    "full_name": "Jenny Parsons",
+    "email": "kevinwilliams@example.com",
+    "city": "Brownfort",
+    "country": "Nepal",
+    "signup_date": "2025-10-14"
+  },
+  {
+    "customer_id": "C0123",
+    "full_name": "Laura Higgins",
+    "email": "ruben95@example.org",
+    "city": "Lopezland",
+    "country": "Malta",
+    "signup_date": "2026-08-31"
+  },
+  {
+    "customer_id": "C0124",
+    "full_name": "Joseph Romero",
+    "email": "myerstheodore@example.net",
+    "city": "Zavalaview",
+    "country": "San Marino",
+    "signup_date": "2024-09-29"
+  },
+  {
+    "customer_id": "C0125",
+    "full_name": "Haley Quinn",
+    "email": "ingramjill@example.com",
+    "city": "North Michael",
+    "country": "Guadeloupe",
+    "signup_date": "2026-05-05"
+  },
+  {
+    "customer_id": "C0126",
+    "full_name": "Richard Marshall",
+    "email": "zwelch@example.org",
+    "city": "Lake Kimberlymouth",
+    "country": "Argentina",
+    "signup_date": "2025-04-20"
+  },
+  {
+    "customer_id": "C0127",
+    "full_name": "Curtis Williams",
+    "email": "zachary87@example.com",
+    "city": "Port Deborahport",
+    "country": "Guinea-Bissau",
+    "signup_date": "2026-06-10"
+  },
+  {
+    "customer_id": "C0128",
+    "full_name": "Matthew Nelson",
+    "email": "samuel67@example.com",
+    "city": "Terrifort",
+    "country": "Puerto Rico",
+    "signup_date": "2025-09-16"
+  },
+  {
+    "customer_id": "C0129",
+    "full_name": "Kelly Owen",
+    "email": "mmiller@example.org",
+    "city": "Manuelland",
+    "country": "Greece",
+    "signup_date": "2026-01-14"
+  },
+  {
+    "customer_id": "C0130",
+    "full_name": "Lance Simmons",
+    "email": "cbell@example.net",
+    "city": "Christinachester",
+    "country": "Falkland Islands (Malvinas)",
+    "signup_date": "2025-12-29"
+  },
+  {
+    "customer_id": "C0131",
+    "full_name": "Amy Lambert",
+    "email": "zcox@example.net",
+    "city": "North Douglas",
+    "country": "New Caledonia",
+    "signup_date": "2026-01-26"
+  },
+  {
+    "customer_id": "C0132",
+    "full_name": "Cameron Young",
+    "email": "michael90@example.net",
+    "city": "Lake Shannon",
+    "country": "Heard Island and McDonald Islands",
+    "signup_date": "2025-06-16"
+  },
+  {
+    "customer_id": "C0133",
+    "full_name": "Laura Moreno",
+    "email": "redwards@example.org",
+    "city": "North Jillfort",
+    "country": "Maldives",
+    "signup_date": "2025-06-27"
+  },
+  {
+    "customer_id": "C0134",
+    "full_name": "Deborah Green",
+    "email": "nlewis@example.com",
+    "city": "Gonzalezberg",
+    "country": "Timor-Leste",
+    "signup_date": "2024-11-11"
+  },
+  {
+    "customer_id": "C0135",
+    "full_name": "Micheal Osborn",
+    "email": "elizabeth18@example.net",
+    "city": "Patriciaburgh",
+    "country": "Rwanda",
+    "signup_date": "2026-02-18"
+  },
+  {
+    "customer_id": "C0136",
+    "full_name": "Carrie Ward",
+    "email": "davidharris@example.org",
+    "city": "Port Troy",
+    "country": "Guyana",
+    "signup_date": "2025-10-27"
+  },
+  {
+    "customer_id": "C0137",
+    "full_name": "Robert Arnold",
+    "email": "jonesraymond@example.net",
+    "city": "Foxchester",
+    "country": "Swaziland",
+    "signup_date": "2025-11-12"
+  },
+  {
+    "customer_id": "C0138",
+    "full_name": "Evan Jones",
+    "email": "wfrazier@example.org",
+    "city": "Port Tammy",
+    "country": "Jersey",
+    "signup_date": "2025-09-20"
+  },
+  {
+    "customer_id": "C0139",
+    "full_name": "Sandra Holmes",
+    "email": "fred53@example.com",
+    "city": "Meghanview",
+    "country": "Congo",
+    "signup_date": "2025-12-26"
+  },
+  {
+    "customer_id": "C0140",
+    "full_name": "Beth Turner",
+    "email": "shawgary@example.net",
+    "city": "East Donna",
+    "country": "Saint Helena",
+    "signup_date": "2026-07-09"
+  },
+  {
+    "customer_id": "C0141",
+    "full_name": "Thomas Williams",
+    "email": "millerstacy@example.net",
+    "city": "Debrashire",
+    "country": "Israel",
+    "signup_date": "2025-12-13"
+  },
+  {
+    "customer_id": "C0142",
+    "full_name": "Stephen Gardner",
+    "email": "timothy64@example.com",
+    "city": "Lake Brianmouth",
+    "country": "Israel",
+    "signup_date": "2025-09-06"
+  },
+  {
+    "customer_id": "C0143",
+    "full_name": "Lawrence Edwards",
+    "email": "jessica56@example.org",
+    "city": "Zacharyville",
+    "country": "Ghana",
+    "signup_date": "2025-03-13"
+  },
+  {
+    "customer_id": "C0144",
+    "full_name": "Jerry Thomas",
+    "email": "robertspatrick@example.net",
+    "city": "Wrightburgh",
+    "country": "Suriname",
+    "signup_date": "2025-05-15"
+  },
+  {
+    "customer_id": "C0145",
+    "full_name": "Emily Hines",
+    "email": "dferrell@example.com",
+    "city": "Tylerland",
+    "country": "Western Sahara",
+    "signup_date": "2025-07-02"
+  },
+  {
+    "customer_id": "C0146",
+    "full_name": "David Aguilar",
+    "email": "williamstroy@example.net",
+    "city": "Mitchelltown",
+    "country": "Tanzania",
+    "signup_date": "2024-12-05"
+  },
+  {
+    "customer_id": "C0147",
+    "full_name": "Dennis Diaz",
+    "email": "zdiaz@example.org",
+    "city": "West Angela",
+    "country": "Barbados",
+    "signup_date": "2025-06-27"
+  },
+  {
+    "customer_id": "C0148",
+    "full_name": "Joshua Bryan",
+    "email": "andersoncolin@example.com",
+    "city": "Angelastad",
+    "country": "Saudi Arabia",
+    "signup_date": "2025-01-01"
+  },
+  {
+    "customer_id": "C0149",
+    "full_name": "Jennifer Williams",
+    "email": "taylormason@example.com",
+    "city": "Hernandezhaven",
+    "country": "Burundi",
+    "signup_date": "2025-05-15"
+  },
+  {
+    "customer_id": "C0150",
+    "full_name": "Carla Ewing",
+    "email": "brittney88@example.net",
+    "city": "Ericksonport",
+    "country": "Lebanon",
+    "signup_date": "2026-05-07"
+  },
+  {
+    "customer_id": "C0151",
+    "full_name": "Michael Whitney",
+    "email": "laura09@example.com",
+    "city": "Tammyshire",
+    "country": "Morocco",
+    "signup_date": "2025-03-03"
+  },
+  {
+    "customer_id": "C0152",
+    "full_name": "John Warren",
+    "email": "rhernandez@example.org",
+    "city": "New Stacyville",
+    "country": "Comoros",
+    "signup_date": "2024-10-01"
+  },
+  {
+    "customer_id": "C0153",
+    "full_name": "Christian Vaughn",
+    "email": "nshaw@example.com",
+    "city": "Lake Devinborough",
+    "country": "Monaco",
+    "signup_date": "2025-05-13"
+  },
+  {
+    "customer_id": "C0154",
+    "full_name": "Kelly Edwards",
+    "email": "stevepatel@example.net",
+    "city": "Ericaview",
+    "country": "New Zealand",
+    "signup_date": "2025-09-06"
+  },
+  {
+    "customer_id": "C0155",
+    "full_name": "Diana Evans",
+    "email": "kellie37@example.com",
+    "city": "Baileyview",
+    "country": "France",
+    "signup_date": "2024-12-16"
+  },
+  {
+    "customer_id": "C0156",
+    "full_name": "Jamie Baird",
+    "email": "stephanie24@example.org",
+    "city": "Stephanieland",
+    "country": "Guatemala",
+    "signup_date": "2026-07-25"
+  },
+  {
+    "customer_id": "C0157",
+    "full_name": "Nicole Lewis",
+    "email": "sarah42@example.org",
+    "city": "East Brent",
+    "country": "United Kingdom",
+    "signup_date": "2025-10-11"
+  },
+  {
+    "customer_id": "C0158",
+    "full_name": "Amy Gutierrez",
+    "email": "xgarcia@example.org",
+    "city": "New Tiffanyburgh",
+    "country": "Ireland",
+    "signup_date": "2026-01-08"
+  },
+  {
+    "customer_id": "C0159",
+    "full_name": "Karen Santos",
+    "email": "manuel01@example.net",
+    "city": "New Joanne",
+    "country": "Thailand",
+    "signup_date": "2026-08-03"
+  },
+  {
+    "customer_id": "C0160",
+    "full_name": "Carrie Khan",
+    "email": "sarahjohnson@example.com",
+    "city": "Lopezport",
+    "country": "Turkey",
+    "signup_date": "2024-10-15"
+  },
+  {
+    "customer_id": "C0161",
+    "full_name": "Lance Hebert",
+    "email": "justin88@example.com",
+    "city": "Port William",
+    "country": "Faroe Islands",
+    "signup_date": "2025-02-05"
+  },
+  {
+    "customer_id": "C0162",
+    "full_name": "Christopher Stevens",
+    "email": "jennifer05@example.com",
+    "city": "East Cheryl",
+    "country": "Northern Mariana Islands",
+    "signup_date": "2026-07-05"
+  },
+  {
+    "customer_id": "C0163",
+    "full_name": "Kaylee Miller",
+    "email": "lopezdonald@example.com",
+    "city": "North Jose",
+    "country": "Dominica",
+    "signup_date": "2025-08-10"
+  },
+  {
+    "customer_id": "C0164",
+    "full_name": "Gary Aguilar",
+    "email": "greenmichael@example.org",
+    "city": "Lake Davidport",
+    "country": "Cayman Islands",
+    "signup_date": "2025-07-11"
+  },
+  {
+    "customer_id": "C0165",
+    "full_name": "Stephanie Padilla",
+    "email": "hannah45@example.net",
+    "city": "East Susan",
+    "country": "Lesotho",
+    "signup_date": "2025-01-07"
+  },
+  {
+    "customer_id": "C0166",
+    "full_name": "Lisa Perry",
+    "email": "ztodd@example.net",
+    "city": "Port John",
+    "country": "Saudi Arabia",
+    "signup_date": "2025-11-27"
+  },
+  {
+    "customer_id": "C0167",
+    "full_name": "Kelly Rice",
+    "email": "christian91@example.org",
+    "city": "New Amanda",
+    "country": "Chad",
+    "signup_date": "2025-05-15"
+  },
+  {
+    "customer_id": "C0168",
+    "full_name": "Audrey Harris",
+    "email": "gdavis@example.com",
+    "city": "South Davidchester",
+    "country": "Korea",
+    "signup_date": "2025-11-04"
+  },
+  {
+    "customer_id": "C0169",
+    "full_name": "Megan Parker",
+    "email": "fosterlisa@example.net",
+    "city": "New Charles",
+    "country": "Jamaica",
+    "signup_date": "2025-05-27"
+  },
+  {
+    "customer_id": "C0170",
+    "full_name": "Zachary Michael",
+    "email": "andersenthomas@example.com",
+    "city": "Whiteberg",
+    "country": "Seychelles",
+    "signup_date": "2025-12-30"
+  },
+  {
+    "customer_id": "C0171",
+    "full_name": "Tracey Brooks",
+    "email": "ywest@example.com",
+    "city": "Lake Tamaraside",
+    "country": "Burkina Faso",
+    "signup_date": "2026-01-08"
+  },
+  {
+    "customer_id": "C0172",
+    "full_name": "Christopher Medina",
+    "email": "jessicawalker@example.org",
+    "city": "West Stevenside",
+    "country": "Jamaica",
+    "signup_date": "2025-10-11"
+  },
+  {
+    "customer_id": "C0173",
+    "full_name": "Danielle Reed",
+    "email": "jacob10@example.net",
+    "city": "Mendeztown",
+    "country": "Dominican Republic",
+    "signup_date": "2025-02-15"
+  },
+  {
+    "customer_id": "C0174",
+    "full_name": "Andrew Harper",
+    "email": "sanchezbradley@example.com",
+    "city": "New Jeff",
+    "country": "Tonga",
+    "signup_date": "2026-04-08"
+  },
+  {
+    "customer_id": "C0175",
+    "full_name": "Wyatt Young",
+    "email": "barbara53@example.com",
+    "city": "Lake Adriana",
+    "country": "Isle of Man",
+    "signup_date": "2025-04-25"
+  },
+  {
+    "customer_id": "C0176",
+    "full_name": "Travis Hobbs",
+    "email": "conniesimmons@example.com",
+    "city": "West Shellyfurt",
+    "country": "Solomon Islands",
+    "signup_date": "2025-10-06"
+  },
+  {
+    "customer_id": "C0177",
+    "full_name": "Jennifer Evans",
+    "email": "karenwells@example.org",
+    "city": "Meredithberg",
+    "country": "Sri Lanka",
+    "signup_date": "2025-08-22"
+  },
+  {
+    "customer_id": "C0178",
+    "full_name": "Jason Butler",
+    "email": "paulscott@example.com",
+    "city": "South Melanieland",
+    "country": "Mauritania",
+    "signup_date": "2026-03-01"
+  },
+  {
+    "customer_id": "C0179",
+    "full_name": "Derrick Nunez",
+    "email": "russojacob@example.net",
+    "city": "South Jason",
+    "country": "United States of America",
+    "signup_date": "2025-05-19"
+  },
+  {
+    "customer_id": "C0180",
+    "full_name": "Alexis Giles",
+    "email": "burgesskaren@example.org",
+    "city": "South Rose",
+    "country": "Micronesia",
+    "signup_date": "2025-05-11"
+  },
+  {
+    "customer_id": "C0181",
+    "full_name": "John Wong",
+    "email": "jose87@example.com",
+    "city": "Port Tinafort",
+    "country": "Senegal",
+    "signup_date": "2026-05-24"
+  },
+  {
+    "customer_id": "C0182",
+    "full_name": "Jacqueline Gutierrez",
+    "email": "joycesmith@example.net",
+    "city": "Phillipsborough",
+    "country": "Greenland",
+    "signup_date": "2025-03-05"
+  },
+  {
+    "customer_id": "C0183",
+    "full_name": "Danielle Pierce",
+    "email": "jonathan77@example.com",
+    "city": "Lake Laura",
+    "country": "Chile",
+    "signup_date": "2024-12-29"
+  },
+  {
+    "customer_id": "C0184",
+    "full_name": "Catherine Preston",
+    "email": "warrenmary@example.org",
+    "city": "Port Adamberg",
+    "country": "Tajikistan",
+    "signup_date": "2025-12-23"
+  },
+  {
+    "customer_id": "C0185",
+    "full_name": "Chris Robinson",
+    "email": "nbrooks@example.net",
+    "city": "Hopkinstown",
+    "country": "Albania",
+    "signup_date": "2025-10-12"
+  },
+  {
+    "customer_id": "C0186",
+    "full_name": "Alan Bowen",
+    "email": "andre62@example.org",
+    "city": "New Eduardoborough",
+    "country": "Niger",
+    "signup_date": "2025-10-07"
+  },
+  {
+    "customer_id": "C0187",
+    "full_name": "Debra Sanders",
+    "email": "susan79@example.org",
+    "city": "West Gabriella",
+    "country": "Thailand",
+    "signup_date": "2024-11-15"
+  },
+  {
+    "customer_id": "C0188",
+    "full_name": "Marie Johnson MD",
+    "email": "dtran@example.net",
+    "city": "Lake Georgefort",
+    "country": "Tanzania",
+    "signup_date": "2025-08-01"
+  },
+  {
+    "customer_id": "C0189",
+    "full_name": "Kylie Hodge",
+    "email": "jacobsonsamantha@example.org",
+    "city": "Port Heather",
+    "country": "Montenegro",
+    "signup_date": "2025-08-31"
+  },
+  {
+    "customer_id": "C0190",
+    "full_name": "Benjamin Frost",
+    "email": "whitemelissa@example.org",
+    "city": "New Douglas",
+    "country": "Swaziland",
+    "signup_date": "2026-02-20"
+  },
+  {
+    "customer_id": "C0191",
+    "full_name": "Billy Martin",
+    "email": "ashleyatkinson@example.net",
+    "city": "Patrickberg",
+    "country": "Somalia",
+    "signup_date": "2026-09-10"
+  },
+  {
+    "customer_id": "C0192",
+    "full_name": "Kathryn Mccann",
+    "email": "davisjesse@example.org",
+    "city": "Cassiefurt",
+    "country": "Singapore",
+    "signup_date": "2025-05-14"
+  },
+  {
+    "customer_id": "C0193",
+    "full_name": "Rachel Hayes",
+    "email": "michaelpugh@example.com",
+    "city": "Lake Brenda",
+    "country": "Hong Kong",
+    "signup_date": "2024-11-19"
+  },
+  {
+    "customer_id": "C0194",
+    "full_name": "Rebecca Marquez",
+    "email": "adamsnorman@example.net",
+    "city": "Lake Peter",
+    "country": "Guyana",
+    "signup_date": "2024-12-04"
+  },
+  {
+    "customer_id": "C0195",
+    "full_name": "Eric Ward",
+    "email": "curtis12@example.com",
+    "city": "Hawkinshaven",
+    "country": "Ireland",
+    "signup_date": "2024-12-02"
+  },
+  {
+    "customer_id": "C0196",
+    "full_name": "Julian Carlson",
+    "email": "michelle04@example.com",
+    "city": "Maxwellside",
+    "country": "United Kingdom",
+    "signup_date": "2026-09-13"
+  },
+  {
+    "customer_id": "C0197",
+    "full_name": "Joseph Jennings",
+    "email": "dominicturner@example.com",
+    "city": "North Gary",
+    "country": "Falkland Islands (Malvinas)",
+    "signup_date": "2025-07-22"
+  },
+  {
+    "customer_id": "C0198",
+    "full_name": "Mr. David Wright",
+    "email": "mwheeler@example.com",
+    "city": "East Kevinfurt",
+    "country": "Grenada",
+    "signup_date": "2026-05-26"
+  },
+  {
+    "customer_id": "C0199",
+    "full_name": "Scott Alexander",
+    "email": "pochoa@example.net",
+    "city": "West Malik",
+    "country": "Yemen",
+    "signup_date": "2026-02-08"
+  },
+  {
+    "customer_id": "C0200",
+    "full_name": "Christopher Sanders",
+    "email": "kelly79@example.org",
+    "city": "Nicholasfurt",
+    "country": "Haiti",
+    "signup_date": "2024-12-10"
+  }
+]
