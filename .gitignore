@@ -3,3 +3,7 @@ __pycache__/
 .env
 *.pem
 .aws/
+dbt/ecom_analytics/target/
+dbt/ecom_analytics/dbt_packages/
+dbt/ecom_analytics/logs/
+dbt/profiles.yml

@@ -1,0 +1,36 @@
+[0m21:32:30.402132 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7122f3922a80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7122f4762420>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7122f3923920>]}
+
+
+============================== 21:32:30.409022 | c77aca57-2091-4b28-a9b2-f21e6255fb1b ==============================
+[0m21:32:30.409022 [info ] [MainThread]: Running with dbt=1.7.9
+[0m21:32:30.410309 [debug] [MainThread]: running dbt with arguments {'introspect': 'True', 'debug': 'False', 'fail_fast': 'False', 'static_parser': 'True', 'log_format': 'default', 'printer_width': '80', 'use_colors': 'True', 'target_path': 'None', 'version_check': 'True', 'log_cache_events': 'False', 'warn_error': 'None', 'quiet': 'False', 'use_experimental_parser': 'False', 'partial_parse': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'no_print': 'None', 'invocation_command': 'dbt init ecom_analytics --skip-profile-setup', 'profiles_dir': '/home/asp/.dbt', 'indirect_selection': 'eager', 'send_anonymous_usage_stats': 'True', 'cache_selected_only': 'False', 'log_path': 'logs', 'write_json': 'True'}
+[0m21:32:30.412024 [debug] [MainThread]: Starter project path: /home/asp/Desktop/ecommerce-analytics-platform/venv/lib/python3.12/site-packages/dbt/include/starter_project
+[0m21:32:30.417147 [info ] [MainThread]: 
+Your new dbt project "ecom_analytics" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m21:32:30.419241 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7122f4762420>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7122f38523c0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7122f3923b00>]}
+[0m21:32:30.420256 [debug] [MainThread]: Flushing usage events
+[0m21:35:26.877710 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7a7cb4a1e990>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7a7cb4c6f230>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7a7cb4a1f200>]}
+
+
+============================== 21:35:26.881351 | d9dc902b-efc5-4f0c-8649-e45b007f518c ==============================
+[0m21:35:26.881351 [info ] [MainThread]: Running with dbt=1.7.9
+[0m21:35:26.882179 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'profiles_dir': '/home/asp/.dbt', 'log_path': 'logs', 'version_check': 'True', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'invocation_command': 'dbt init ecom_analytics --skip-profile-setup', 'static_parser': 'True', 'introspect': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m21:35:26.883260 [info ] [MainThread]: A project called ecom_analytics already exists here.
+[0m21:35:26.884316 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 0.07250535, "process_user_time": 2.810324, "process_kernel_time": 0.113053, "process_mem_max_rss": "97144", "process_out_blocks": "8", "process_in_blocks": "0"}
+[0m21:35:26.885013 [debug] [MainThread]: Command `dbt init` succeeded at 21:35:26.884797 after 0.07 seconds
+[0m21:35:26.885559 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7a7cb8b030e0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7a7cb95bf980>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7a7cb55c8e30>]}
+[0m21:35:26.886145 [debug] [MainThread]: Flushing usage events
