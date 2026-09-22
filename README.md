@@ -149,3 +149,6 @@ of signals. This project hits all of them:
 
 Don't wait for "done" to start applying — start once Week 2's checkpoint passes.
 A working pipeline with a couple of rough edges beats a perfect one you never ship.
+
+<img width="1777" height="888" alt="image" src="https://github.com/user-attachments/assets/2e7b2d8c-3f21-44cf-89ef-ad405dc16330" />
+
