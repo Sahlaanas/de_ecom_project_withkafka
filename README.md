@@ -197,19 +197,6 @@ loudly rather than silently loading bad data.
 
 ---
 
-## What I'd change at production scale
-
-- Multi-broker Kafka with a real replication factor, instead of one local broker
-- Type 2 dimensions (via dbt snapshots) to preserve customer/product history
-- Managed Kafka (MSK/Confluent Cloud) and managed Airflow (MWAA/Composer) instead
-  of self-hosted Docker containers
-- Incremental dbt models for `fact_orders` instead of a full rebuild each run, once
-  data volume made full refreshes too slow
-- An "Unknown" member row in each dimension instead of nullable foreign keys, so
-  orphaned facts are still queryable without null-handling everywhere
-
----
-
 ## Screenshots
 
 
