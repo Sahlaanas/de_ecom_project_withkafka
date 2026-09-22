@@ -5,31 +5,31 @@ models:
     description: One row per order event, deduplicated by event_id.
     columns:
       - name: event_id
-        data_tests: [unique, not_null]
+        tests: [unique, not_null]
       - name: order_id
-        data_tests: [unique, not_null]
+        tests: [unique, not_null]
       - name: customer_id
-        data_tests:
+        tests:
           - not_null
           - relationships:
               to: ref('stg_customers')
               field: customer_id
       - name: product_id
-        data_tests:
+        tests:
           - not_null
           - relationships:
               to: ref('stg_products')
               field: product_id
       - name: quantity
-        data_tests:
+        tests:
           - dbt_utils.accepted_range:
               min_value: 1
       - name: total_amount
-        data_tests:
+        tests:
           - dbt_utils.accepted_range:
               min_value: 0
       - name: order_status
-        data_tests:
+        tests:
           - accepted_values:
               values: ['completed', 'cancelled']
 
@@ -37,9 +37,9 @@ models:
     description: Latest snapshot of the product catalog.
     columns:
       - name: product_id
-        data_tests: [unique, not_null]
+        tests: [unique, not_null]
       - name: unit_price
-        data_tests:
+        tests:
           - dbt_utils.accepted_range:
               min_value: 0
               inclusive: false
@@ -48,6 +48,6 @@ models:
     description: Latest snapshot of the customer catalog.
     columns:
       - name: customer_id
-        data_tests: [unique, not_null]
+        tests: [unique, not_null]
       - name: email
-        data_tests: [not_null]
+        tests: [not_null]

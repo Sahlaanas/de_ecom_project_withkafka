@@ -7,3 +7,7 @@ dbt/ecom_analytics/target/
 dbt/ecom_analytics/dbt_packages/
 dbt/ecom_analytics/logs/
 dbt/profiles.yml
+
+airflow/.env
+airflow/logs/
+airflow/config/

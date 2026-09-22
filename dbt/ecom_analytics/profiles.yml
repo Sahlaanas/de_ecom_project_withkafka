@@ -1,0 +1,13 @@
+ecom_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"
+      user: "{{ env_var('SNOWFLAKE_USER') }}"
+      password: "{{ env_var('SNOWFLAKE_PASSWORD') }}"
+      role: DE_ROLE
+      warehouse: ECOM_WH
+      database: ECOM_DB
+      schema: ANALYTICS
+      threads: 4

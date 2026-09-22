@@ -1,0 +1,57 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: One row per customer (latest snapshot). Type 1 dimension.
+    columns:
+      - name: customer_key
+        description: Surrogate key (hash of customer_id).
+        tests: [unique, not_null]
+      - name: customer_id
+        description: Natural key from the source system.
+        tests: [unique, not_null]
+
+  - name: dim_products
+    description: One row per product (latest snapshot). Type 1 dimension.
+    columns:
+      - name: product_key
+        description: Surrogate key (hash of product_id).
+        tests: [unique, not_null]
+      - name: product_id
+        description: Natural key from the source system.
+        tests: [unique, not_null]
+
+  - name: dim_date
+    description: Calendar dimension, one row per day.
+    columns:
+      - name: date_key
+        description: Date as an integer in YYYYMMDD format.
+        tests: [unique, not_null]
+
+  - name: fact_orders
+    description: >
+      One row per order. Includes cancelled orders; filter on order_status
+      for revenue reporting.
+    columns:
+      - name: order_id
+        tests: [unique, not_null]
+      - name: customer_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_customers')
+              field: customer_key
+      - name: product_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_products')
+              field: product_key
+      - name: order_date_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_date')
+              field: date_key
+      - name: total_amount
+        description: Amount charged (quantity x unit_price at order time).

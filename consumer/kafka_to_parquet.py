@@ -102,10 +102,13 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--idle-exit", type=int, default=0,
                         help="exit after N seconds with no new messages (0 = run forever)")
+    parser.add_argument("--bootstrap-servers", default="localhost:9092",
+                        help="Kafka address, e.g. kafka:9093 when run inside Docker")
+
     args = parser.parse_args()
 
     consumer = Consumer({
-        "bootstrap.servers": "localhost:9092",
+        "bootstrap.servers": args.bootstrap_servers,
         "group.id": "parquet-loader",
         "auto.offset.reset": "earliest",
         "enable.auto.commit": False,     # we commit manually, after writing
